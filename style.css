@@ -1,27 +1,16 @@
-* {
-    padding:0;
-    margin:0;
-}
-
-
-    
-
 body {
     background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
     font-family: 'Poppins', sans-serif;
-    background: url(back2.jpg) no-repeat;
+    background: url('./back2.jpg') no-repeat;
     background-size: cover;
-    align-items: center;
-    justify-content: center;
-    display:flex;
 }
 
 #form {
     width: 300px;
-    margin: 10vh auto 0 auto;
+    margin: 20vh auto 0 auto;
     padding: 20px;
-    background-color: rgb(230, 219, 219);
-    border-radius: 8px;
+    background-color: whitesmoke;
+    border-radius: 4px;
     font-size: 12px;
 }
 
